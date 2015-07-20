@@ -1,0 +1,9 @@
+APP_OPTIM := release
+APP_PLATFORM := android-8
+APP_STL := stlport_static
+APP_CPPFLAGS += -frtti
+APP_CPPFLAGS += -fexceptions
+APP_CPPFLAGS += -DANDROID
+APP_ABI := armeabi 
+APP_MODULES := curl-prebuilt testlibrary 
+NDK_TOOLCHAIN_VERSION := 4.8
