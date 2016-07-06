@@ -1,6 +1,6 @@
-/cygdrive/c/Users/vyshakh/workspaceCiqual/CurlSample/obj/local/armeabi/objs/testlibrary/testlibrary.o: \
- /cygdrive/c/Users/vyshakh/workspaceCiqual/CurlSample/jni/testlibrary/testlibrary.cpp \
- /cygdrive/c/Users/vyshakh/workspaceCiqual/CurlSample/jni/testlibrary/testlibrary.h \
+/cygdrive/c/REPOS/testCurl/CURL-Android-with-verify-peer-/obj/local/armeabi/objs/testlibrary/testlibrary.o: \
+ /cygdrive/c/REPOS/testCurl/CURL-Android-with-verify-peer-/jni/testlibrary/testlibrary.cpp \
+ /cygdrive/c/REPOS/testCurl/CURL-Android-with-verify-peer-/jni/testlibrary/testlibrary.h \
  ../jni/prebuilt-with-ssl/android/include/curl/curl.h \
  ../jni/prebuilt-with-ssl/android/include/curl/curlver.h \
  ../jni/prebuilt-with-ssl/android/include/curl/curlbuild.h \
@@ -178,7 +178,7 @@
  /cygdrive/c/android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_tempbuf.h \
  /cygdrive/c/android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_tempbuf.c
 
-/cygdrive/c/Users/vyshakh/workspaceCiqual/CurlSample/jni/testlibrary/testlibrary.h:
+/cygdrive/c/REPOS/testCurl/CURL-Android-with-verify-peer-/jni/testlibrary/testlibrary.h:
 
 ../jni/prebuilt-with-ssl/android/include/curl/curl.h:
 

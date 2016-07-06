@@ -48,7 +48,9 @@ BOOL downloadUrl(const char* url, LPCURL_DOWNLOAD_OBJECT downloadObject ) {
 	curl_version_info_data * vinfo = curl_version_info( CURLVERSION_NOW );
 	if( vinfo->features & CURL_VERSION_SSL )
 	    // SSL support enabled
-		 LOGI("SSL support enabled");
+	{ LOGI("SSL support enabled");
+	  LOGI("OpenSSL version:%s",vinfo->ssl_version);
+	}
 	else
 	{// No SSL
 		 LOGI("NO SSL");
